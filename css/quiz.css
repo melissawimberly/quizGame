@@ -122,9 +122,10 @@ body { background-color: #fff; padding: 20px; }
 #myQuiz .intro.inactive, #myQuiz .inactive.answered { left: -1350px }
 
 
+/* Temporary test for results */
 
-
-
+#myQuiz { height: 1000px; }
+#myQuiz .results { top: 650px !important; left: 40px !important; }
 
 
 
