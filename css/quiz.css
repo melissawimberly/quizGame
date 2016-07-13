@@ -43,7 +43,7 @@ body { background-color: #fff; padding: 20px; }
 
 /* Questions */
 
-#myQuiz .question{ width: 550px; position: absolute; top: 225px; left: 40px; }
+#myQuiz .question{ width: 550px; position: absolute; top: 225px; left: 660px; }
 #myQuiz .question .txt{ font-size: 1.6em; margin: 0 0 20px 0; }
 #myQuiz .question .ans{ 
 	display: inline-block; font-size: 1.1em; width: 225px; border: 2px solid rgba(238,189,102,.4);
