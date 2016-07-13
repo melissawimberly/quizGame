@@ -14,5 +14,9 @@
 
 		});
 
+		$scope.selectAnswer = function(qIndex, aIndex){
+			alert(qIndex + 'and' + aIndex)
+		}
+
 	}]);
 })();
